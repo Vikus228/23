@@ -1,0 +1,52 @@
+.card {
+    width: 25vw;
+    margin: 2px;
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    }
+
+.noMargin {
+    margin: 0;
+    }
+
+.card-header {
+    margin-bottom: 1px;
+    box-shadow: #393939;
+}
+
+.bigSize {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.left {
+    text-align: left;
+    margin-left: 20%;
+}
+
+.right {
+    text-align: right;
+    margin-right: 20%;
+}
+
+.card-section {
+    padding: 3%;
+    background-color: #ededed;
+    color: #464646;
+}
+
+.card-footer {
+    padding: 3%;
+    background-color: #d5d5d5;
+    color: #464646;
+}
+
+.card-header p{
+    padding: 4%;
+}
+
+.big-card {
+    width: 30vw;
+    box-shadow: 3px 6px 10px rgba(0, 0, 0, 0.4);
+}
