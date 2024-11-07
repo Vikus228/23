@@ -46,7 +46,11 @@
     padding: 4%;
 }
 
-.big-card {
+.bigCard {
+    margin: 2px;
+    color: white;
+    text-align: center;
+    font-size: 23px;
     width: 30vw;
     box-shadow: 3px 6px 10px rgba(0, 0, 0, 0.4);
 }
